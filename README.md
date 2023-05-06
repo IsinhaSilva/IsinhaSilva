@@ -1,7 +1,7 @@
 ### Olá Pessoal🧸🤎
 ##
 ### Me chamo Isadora Silva de Oliveira 
-Aqui você irá encontrar alguns projetos desenvolvidos durante minha jornada de estudos!
+Aqui vocês irão encontrar alguns projetos desenvolvidos durante minha jornada de estudos!
 
 <div>
   <a href="https://github.com/IsinhaSilva">
